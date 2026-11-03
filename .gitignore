@@ -25,3 +25,32 @@ cmake-build-release/
 # macOS
 .AppleDouble
 .LSOverride
+
+# Cache, temp files, and large generated junk
+.cache/
+.cache/**
+.tmp/
+.tmp/**
+tmp/
+temp/
+*.tmp
+*.temp
+*.cache
+*.bak
+*.orig
+*.rej
+*.log
+*.pid
+*.lock
+*.7z
+*.tar
+*.gz
+*.zip
+*.rar
+
+# Dependency and output cache
+node_modules/
+coverage/
+out/
+**/target/
+**/build/
