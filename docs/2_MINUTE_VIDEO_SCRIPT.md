@@ -1,4 +1,4 @@
-# 🎬 2-Minute Video Pitch Script: Zero-Context Visual Runtime Debugger
+# 🎬 3-Minute Video Pitch Script: Zero-Context Visual Runtime Debugger
 
 > **Target**: Meta AI Global Hackathon Submission  
 > **Duration**: Exactly 2 minutes (120 seconds)  
